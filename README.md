@@ -1,0 +1,1 @@
+Creating a dynamic dashboard in Power BI for an industry project tracking system involves importing project data, visualizing completed processes over time, and incorporating interactive elements for filtering by date and process.
